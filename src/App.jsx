@@ -18,7 +18,7 @@ const STUDIO_CONFIG = {
   subtitle: "YOGA",
   tagline: "Find your balance. Body, mind, spirit.",
   logoMark: "TY",
-  description: "South Sound yoga across three studios. Gig Harbor, Tacoma, Lakewood. Sanskrit Tula meaning balance. Yoga for Every Body since 2016.",
+  description: "South Sound yoga across three studios. Gig\u00A0Harbor, Tacoma, Lakewood. Sanskrit Tula meaning balance. Yoga for Every Body since 2016.",
   heroLine1: "FIND YOUR",
   heroLine2: "BALANCE",
   address: { street: "4641 Point Fosdick Dr, Ste 200", city: "Gig Harbor", state: "WA", zip: "98335" },

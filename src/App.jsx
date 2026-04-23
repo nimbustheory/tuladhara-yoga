@@ -6,7 +6,7 @@ import {
   UserCheck, Megaphone, LogOut, Plus, Edit3, Send, Check, Search, Info,
   CircleCheck, UserPlus, Heart, Flame, Star, Sun, Moon, Wind, Sparkles,
   Mountain, Leaf, Music, Gift, Share2, MapPin, Trash2, Volume2,
-  Headphones, Eye, Waves, RefreshCw, Zap, Move, Scale
+  Headphones, Eye, Waves, RefreshCw, Zap, Move, Scale, Filter
 } from "lucide-react";
 import {
   BarChart, Bar, AreaChart, Area, XAxis, YAxis,
@@ -1076,7 +1076,7 @@ export default function App({ onEnterAdmin, startInAdmin, onExitAdmin }) {
     { id: "more", label: "More", icon: Menu },
   ];
   const moreItems = [
-    { id: "classes", label: "Classes", icon: Wind },
+    { id: "classes", label: "Classes", icon: Filter },
     { id: "teachers", label: "Teachers", icon: Users },
     { id: "events", label: "Events", icon: CalendarDays },
     { id: "membership", label: "Membership", icon: CreditCard },
